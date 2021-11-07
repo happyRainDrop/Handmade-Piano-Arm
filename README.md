@@ -2,7 +2,7 @@
 https://youtu.be/X-1xEYDmR6k
 
 # Overview 
-This was made during the summer of 2020 as my first Arduino project. It plays a C minor scale and due to its limited range of motion, cannot play any other scales.
+This was made during the summer of 2020 as my first Arduino project. It plays a C harmonic minor scale and due to its limited range of motion, cannot play any other scales.
 
 # Mechanical design
 The bottom servo rotates a Lazy Susan, causing the base to turn.
